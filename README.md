@@ -86,7 +86,7 @@ Config.CellDoors = {11, 12, 13, 14, 15, 16, 17, 18}
 
 ## 🎥 Demo Video
 
-Watch the demo video here: [Door ControlPanel Demo](https://r2.fivemanage.com/fvzpmKoNaaTzC1BzW59dp/2025-12-0412-00-30.mp4)
+Watch the demo video here: [Door ControlPanel Demo](https://r2.fivemanage.com/fvzpmKoNaaTzC1BzW59dp/2025-12-0412-12-44.mp4)
 
 ---
 
