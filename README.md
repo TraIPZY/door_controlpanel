@@ -1,8 +1,9 @@
 
+
 # 📌 door_controlpanel
 
 **Author:** TRAPZY
-**Resource:** FiveM
+**Resource:** FiveM 
 **Dependencies:** `ox_lib`, `ox_target`, `ox_doorlock`
 
 ---
@@ -18,6 +19,8 @@ The script uses **ox_target** for interaction and **ox_lib** to display modern n
 
 It is **easy to configure**, works directly on a **specific vector3**, and does not require a specific model or PolyZone.
 
+**Note:** The script is **pre-built in French**, ready to use out of the box.
+
 ---
 
 ## 🔹 Features
@@ -26,6 +29,7 @@ It is **easy to configure**, works directly on a **specific vector3**, and does 
 * Lock all configured doors with one click
 * Visual notifications with **ox_lib** (green/red circle)
 * Single control point for offices, buildings, or secure zones
+* Script comes **pre-built in French** for immediate use
 * Quick and easy installation
 
 ---
